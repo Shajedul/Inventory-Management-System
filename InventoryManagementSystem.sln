@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory Management System", "Inventory Management System\Inventory Management System.csproj", "{26E09FD0-D577-4463-9751-522750D8B961}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem", "Inventory Management System\InventoryManagementSystem.csproj", "{26E09FD0-D577-4463-9751-522750D8B961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
